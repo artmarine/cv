@@ -1,0 +1,7 @@
+.page-holder {
+  max-width: 1240px;
+  margin: 0 auto;
+  color: #fff;
+  background-color: #182752;
+  outline: 1px solid green;
+}

@@ -1,0 +1,39 @@
+.about-block {
+  max-width: 1240px;
+  margin: 0 auto;
+}
+
+.about-head {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  justify-content: space-around;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.about-head-title {
+  font-size: 32px;
+}
+
+.about-head-logo {
+  width: 200px;
+  height: auto;
+}
+
+.about-text {
+  margin-top: 2rem;
+}
+
+.about-text-intro {
+  width: 72%;
+  font-size: 24px;
+  line-height: 1.4;
+}
+
+.about-text-list {
+  padding-left: 20px;
+  font-size: 18px;
+  line-height: 1.5;
+}
